@@ -1,6 +1,6 @@
 # PropertyIQ (Next.js + Gemini RAG)
 
-Create a property, upload its documents, chat with answers grounded in those documents. History is saved.
+Create a property, upload its documents, chat with answers grounded in those documents. History is saved..
 
 ## Run
     npm install
