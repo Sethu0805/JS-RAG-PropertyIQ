@@ -34,7 +34,7 @@ export default function Home() {
       <section className="hero">
         <div className="hero-copy">
           <p className="eyebrow blue">Evidence-led property intelligence</p>
-          <h1>Understand a property<br /><span>before you buy.</span></h1>
+          <h1>Understand a property<br /><span>before you buy..</span></h1>
           <p className="lead">PropertyIQ brings together listing claims, legal records and independent locality reports so you can make decisions with the evidence in view.</p>
         </div>
         <div className="standard">

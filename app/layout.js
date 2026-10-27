@@ -9,7 +9,7 @@ export default function RootLayout({ children }) {
       <body>
         <header className="nav">
           <Link href="/" className="logo"><span className="mark">P</span>PropertyIQ</Link>
-          <Link href="/" className="navlink">Properties</Link>
+          <Link href="/" className="navlink">Properties.</Link>
         </header>
         {children}
       </body>
